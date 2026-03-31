@@ -1,0 +1,12 @@
+[2026-03-31T09:17:00.219Z] [INFO] Opening database at C:\Users\rahul\Desktop\kushalsir_atendence\smart-attendance\attendance.db
+[2026-03-31T09:17:00.241Z] [INFO] ✅ Smart Attendance Server running on http://0.0.0.0:3000
+[2026-03-31T09:17:00.243Z] [INFO]    Local:   http://localhost:3000
+[2026-03-31T09:17:00.244Z] [INFO]    Network: http://0.0.0.0:3000
+[2026-03-31T09:17:00.245Z] [INFO]    PID:     25312
+[2026-03-31T09:18:25.318Z] [INFO] Received SIGINT — shutting down gracefully
+[2026-03-31T09:18:25.379Z] [INFO] Server closed. Goodbye.
+[2026-03-31T09:18:45.635Z] [INFO] Opening database at C:\Users\rahul\Desktop\kushalsir_atendence\smart-attendance\attendance.db
+[2026-03-31T09:18:45.657Z] [INFO] ✅ Smart Attendance Server running on http://0.0.0.0:3000
+[2026-03-31T09:18:45.704Z] [INFO]    Local:   http://localhost:3000
+[2026-03-31T09:18:45.707Z] [INFO]    Network: http://0.0.0.0:3000
+[2026-03-31T09:18:45.713Z] [INFO]    PID:     26424
